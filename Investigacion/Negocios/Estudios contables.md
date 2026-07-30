@@ -1,0 +1,18 @@
+### Cómo funciona un estudio contable chico/mediano (resumen)
+
+El estudio atiende una cartera de clientes (monotributistas, responsables inscriptos, PyMEs, sociedades) y para cada uno tiene que: liquidar impuestos y presentarlos en fecha, llevar la contabilidad (libros, balances), liquidar sueldos si el cliente tiene empleados, y estar en contacto constante pidiendo documentación (facturas, extractos, comprobantes). Todo esto se repite mes a mes, cliente por cliente.
+
+### Problemas frecuentes detectados
+
+- Un estudio con 80 clientes inscriptos en IVA tiene 80 vencimientos solo de IVA por mes, sin contar ganancias, SICORE, F.931, Ingresos Brutos y las DDJJ informativas — y se calcula que un estudio contable pequeño enfrenta unos 4000 vencimientos por año. [AutoApunte](https://autoapunte.com/blog/automatizar-recordatorios-fiscales-asesoria)[RoadToBiz](https://roadtobiz.com/recursos/excel-vencimientos-estudio-contable/)
+- Muchos estudios todavía manejan esto con una planilla Excel: filas para los clientes, columnas para los impuestos y celdas con la terminación del CUIT para saber qué día vence cada cosa — el problema no es la falta de control, es que se están usando horas de profesionales calificados para cruzar manualmente cronogramas de ARCA con terminaciones de CUIT. [Foro](https://foro.ar/articles/vencimientos-arca-calendario)
+- Pedir la documentación mensual a cada cliente es un proceso manual repetitivo: con 30 clientes y 4 trimestres al año son 120 ciclos de avisar-perseguir-registrar quién mandó qué, y si cada ciclo lleva 15 minutos, son 30 horas anuales solo en esa comunicación.
+- Muchos estudios arrancan gestionando la contabilidad en hojas de cálculo, con el problema de falta de trazabilidad y errores humanos. [Observatorio-iberoamericano](http://www.observatorio-iberoamericano.org/Libro%20-%20La%20contab%20de%20gesti%C3%B3n%20en%20Latinoam%C3%A9rica/Argentina.htm)
+- Los sistemas contables muchas veces no están integrados con otros sistemas del cliente, lo que genera duplicación de datos y errores al tener que volcar a mano lo que el cliente ya tiene cargado en otro lado. [Cianchino](https://cianchino.com/blog/vencimientos-afip-mayo-2026.html)
+- Falta de control sobre honorarios: un estudio no es rentable cuando gasta más de lo que ingresa, y liquidar sueldos es una tarea compleja que demanda mucho tiempo y recursos. [Thomson Reuters](https://www.thomsonreuters.com.ar/es/soluciones-fiscales-contables-gestion/blog-contadores/apps-para-contadores-con-ia.html)
+- Cuando aparece una prórroga de ARCA a último momento o cambia una normativa, todo el cronograma armado a mano hay que rehacerlo de nuevo.
+- Comunicación con el cliente dispersa entre WhatsApp personal, mail y llamadas — sin un lugar único donde el cliente vea qué falta presentar o qué le falta mandar.
+
+Acá el panorama es distinto a los rubros anteriores: **existen soluciones grandes y consolidadas (Thomson Reuters ONVIO, Witmi, TACTICA)** que cubren esto muy bien, pero están pensadas para estudios medianos/grandes con presupuesto para un sistema integral. El estudio chico (1 a 5 contadores, cartera de 20-100 clientes) generalmente sigue con Excel + WhatsApp porque los sistemas grandes son caros o excesivos para su volumen — ahí está el hueco: **un producto chico, enfocado en un solo dolor**, no un ERP contable completo.
+
+![[Investigacion/Entregables/Estudios Contables|Estudios Contables]]

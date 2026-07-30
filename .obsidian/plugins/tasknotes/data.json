@@ -490,9 +490,20 @@
   "enableDebugLogging": false,
   "lastSeenVersion": "4.11.1",
   "pomodoroState": {
-    "isRunning": false,
-    "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "isRunning": true,
+    "timeRemaining": 300,
+    "currentSession": {
+      "id": "1785424645124",
+      "startTime": "2026-07-30T12:17:25.124-03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T12:17:25.124-03:00"
+        }
+      ]
+    }
   },
   "lastPomodoroDate": "2026-07-30",
   "googleCalendarSyncQueue": [
@@ -539,7 +550,6 @@
       "lastError": "Google Calendar sync is not ready"
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/Profundizando en concesionarias.md",
   "pomodoroHistory": [
     {
       "id": "1785370994589",
@@ -723,6 +733,22 @@
           "endTime": "2026-07-30T09:15:53.868-03:00"
         }
       ]
+    },
+    {
+      "id": "1785423143895",
+      "startTime": "2026-07-30T11:52:23.894-03:00",
+      "endTime": "2026-07-30T12:17:23.894-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/Profundizar en Restaurantes.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T11:52:23.894-03:00",
+          "endTime": "2026-07-30T12:17:23.894-03:00"
+        }
+      ]
     }
-  ]
+  ],
+  "lastSelectedTaskPath": "TaskNotes/Tasks/Profundizar en Restaurantes.md"
 }
