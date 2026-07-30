@@ -1,0 +1,17 @@
+### Cómo funciona una concesionaria (resumen)
+
+Una concesionaria vive de varias líneas de negocio a la vez, no solo de vender autos: venta de 0km, venta de usados (incluye tasación y compra), financiación/planes de ahorro, service/taller postventa, y venta de repuestos. Cada área suele tener su propio proceso y a veces ni siquiera comparte sistema con las demás.
+
+### Problemas frecuentes detectados
+
+- Falta de visión global sobre los vehículos que están en exposición, depósito y en tránsito, y leads que llegan de portales, la web y el local físico sin un seguimiento unificado. [AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)[AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)
+- Manejo de múltiples financieras y simuladores de crédito con papeleo manual, y tasación, compra y venta de usados que no está integrada con la venta de 0km. [AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)[AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)
+- El área de taller y repuestos funciona desconectada de ventas, lo que rompe la trazabilidad del cliente entre la venta y la postventa. [AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)
+- La información queda dispersa entre planillas, blocs de notas y papeles, lo que hace que se pierdan leads por no tener un registro centralizado de cada contacto. [Govirtual](https://www.govirtual.com.mx/automotriz/blog/problemas-frecuentes-en-el-area-de-servicio-de-las-concesionarias-automotrices/)
+- En el área de servicio, muchas veces el rol del asesor no está bien definido y termina haciendo tanto la parte administrativa como la operativa, y al usar varios sistemas sueltos para agendar turnos la persona responsable puede confundirse y olvidar registros. [eCarsTrade](https://es.ecarstrade.com/blog/errores-que-los-concesionarios-de-autos-nuevos-deben-evitar)[eCarsTrade](https://es.ecarstrade.com/blog/errores-que-los-concesionarios-de-autos-nuevos-deben-evitar)
+- Falta de contabilidad en tiempo real cuando hay varias sucursales, y necesidad de reportes y KPIs que exige la marca/fabricante. [Q2bstudio](https://www.q2bstudio.com/nuestro-blog/1054209/descubre-errores-comunes-gestion-clientes-concesionarios-autos-evita-negocio-optimiza-estrategia-mejora-experiencia-clientes-hoy-mismo)[AutoSpare](https://autospare.es/motor/concesionarios-no-usan-software-de-gestion/)
+- Dato de contexto de mercado: 2 de cada 3 concesionarios todavía no usó nunca un software de gestión, y más del 60% identifica problemas operativos que podrían resolverse con herramientas digitales, y lo que más valoran es que sea fácil de usar y que se adapte a las necesidades específicas del negocio — es decir, hay lugar para soluciones a medida más simples que los ERP grandes tipo CDK. [Liderasoluciones](https://liderasoluciones.com/blog/)[Liderasoluciones](https://liderasoluciones.com/blog/)
+
+Ya existen jugadores grandes (CDK, Grupo ZAS, Asofix, Velneo) que cubren esto de forma integral, pero muchos son caros, pesados de implementar o pensados para concesionarias grandes/de marca — dejan un hueco para productos más chicos y específicos por dolor puntual, sobre todo en concesionarias medianas/chicas o multimarca de usados.
+
+![[Consecionarias]]

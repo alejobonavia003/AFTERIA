@@ -20,8 +20,29 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "c3ed9f49e92f4972",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro"
+            }
+          },
+          {
+            "id": "101ac64759847ecb",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "bar-chart",
+              "title": "Estadísticas de Pomodoro"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,23 +212,30 @@
       "tasknotes:Crear nueva tarea": false
     }
   },
-  "active": "6beb53b34cdfccc3",
+  "active": "bc43aaa6cb767761",
   "lastOpenFiles": [
-    "Investigacion/Entregables/Talleres Mecanicos.md",
+    "Documento sin título",
+    "TaskNotes/Tasks/Profundizar en clinicas.md",
+    "TaskNotes/Tasks/Profundizar en estudios contables.md",
+    "TaskNotes/Tasks/Profundizar en Restaurantes.md",
+    "TaskNotes/Tasks/Profundizar en inmobiliarias.md",
     "Investigacion/Entregables/Restaurantes.md",
+    "Investigacion/Negocios/Concesionarias.md",
+    "Investigacion/Entregables/Consecionarias.md",
+    "Investigacion/Negocios/Restaurantes.md",
+    "README.md",
+    "TaskNotes/Tasks/Profundizando en concesionarias.md",
+    "Investigacion/Entregables/Talleres Mecanicos.md",
     "Investigacion/Entregables/Inmobiliarias.md",
     "Investigacion/Entregables/Hoteles.md",
     "Investigacion/Entregables/Estudios Contables.md",
     "Investigacion/Entregables/Distribuidoras.md",
     "Investigacion/Entregables/Constructoras.md",
-    "Investigacion/Entregables/Consecionarias.md",
     "Investigacion/Entregables/Clinicas y consultorios pequeños.md",
     "Investigacion/Entregables/Agencias de marketing.md",
-    "README.md",
     "Catalogo de productos.md",
     "Investigacion/Entregables",
     "TaskNotes/Tasks/reorganizacion.md",
-    "Investigacion/Negocios/Restaurantes.md",
     "TaskNotes/Tasks/profundizo en restaurantes.md",
     "TaskNotes/Tasks",
     "TaskNotes/Views/mini-calendar-default.base",
@@ -221,13 +249,6 @@
     "TaskNotes/Views",
     "Investigacion/Negocios/Plantilla.md",
     "Investigacion/Negocios/Clínicas y consultorios.md",
-    "docs/AFTERIA.md",
-    "Investigacion/Negocios/Agencias de marketing.md",
-    "TaskNotes/Tasks/organizacion y definicion.md",
-    "Investigacion/Negocios/Hoteles.md",
-    "Investigacion/Negocios/Constructoras.md",
-    "Investigacion/Negocios/Distribuidoras.md",
-    "Investigacion/Negocios/Talleres mecánicos.md",
-    "Investigacion/Negocios/Estudios contables.md"
+    "docs/AFTERIA.md"
   ]
 }
