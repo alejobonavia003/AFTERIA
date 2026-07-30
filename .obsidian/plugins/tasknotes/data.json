@@ -490,20 +490,8 @@
   "enableDebugLogging": false,
   "lastSeenVersion": "4.11.1",
   "pomodoroState": {
-    "isRunning": true,
-    "timeRemaining": 300,
-    "currentSession": {
-      "id": "1785424645124",
-      "startTime": "2026-07-30T12:17:25.124-03:00",
-      "plannedDuration": 5,
-      "type": "short-break",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-07-30T12:17:25.124-03:00"
-        }
-      ]
-    }
+    "isRunning": false,
+    "timeRemaining": 1500
   },
   "lastPomodoroDate": "2026-07-30",
   "googleCalendarSyncQueue": [
@@ -746,6 +734,20 @@
         {
           "startTime": "2026-07-30T11:52:23.894-03:00",
           "endTime": "2026-07-30T12:17:23.894-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785424645124",
+      "startTime": "2026-07-30T12:17:25.124-03:00",
+      "endTime": "2026-07-30T12:21:15.202-03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T12:17:25.124-03:00",
+          "endTime": "2026-07-30T12:21:15.202-03:00"
         }
       ]
     }
