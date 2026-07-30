@@ -490,20 +490,38 @@
   "enableDebugLogging": false,
   "lastSeenVersion": "4.11.1",
   "pomodoroState": {
-    "isRunning": false,
+    "isRunning": true,
     "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "currentSession": {
+      "id": "1785411444463",
+      "taskPath": "TaskNotes/Tasks/reorganizacion.md",
+      "startTime": "2026-07-30T08:37:24.463-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T08:37:24.463-03:00"
+        }
+      ]
+    }
   },
-  "lastPomodoroDate": "2026-07-29",
+  "lastPomodoroDate": "2026-07-30",
   "googleCalendarSyncQueue": [
     {
       "taskPath": "TaskNotes/Tasks/profundizo en restaurantes.md",
       "requestedAt": 1785371042164,
       "attempts": 0,
       "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/reorganizacion.md",
+      "requestedAt": 1785408226839,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
     }
   ],
-  "lastSelectedTaskPath": "TaskNotes/Tasks/profundizo en restaurantes.md",
+  "lastSelectedTaskPath": "TaskNotes/Tasks/reorganizacion.md",
   "pomodoroHistory": [
     {
       "id": "1785370994589",
@@ -535,6 +553,112 @@
         {
           "startTime": "2026-07-29T21:48:47.456-03:00",
           "endTime": "2026-07-29T21:53:47.456-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785373859185",
+      "startTime": "2026-07-29T22:10:59.185-03:00",
+      "endTime": "2026-07-29T22:35:59.185-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/profundizo en restaurantes.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-29T22:10:59.185-03:00",
+          "endTime": "2026-07-29T22:35:59.185-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785375360472",
+      "startTime": "2026-07-29T22:36:00.472-03:00",
+      "endTime": "2026-07-29T22:41:00.472-03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-29T22:36:00.472-03:00",
+          "endTime": "2026-07-29T22:41:00.472-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785375863842",
+      "startTime": "2026-07-29T22:44:23.842-03:00",
+      "endTime": "2026-07-30T07:43:21.181-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/profundizo en restaurantes.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-29T22:44:23.842-03:00",
+          "endTime": "2026-07-29T22:48:58.767-03:00"
+        },
+        {
+          "startTime": "2026-07-30T07:22:56.106-03:00",
+          "endTime": "2026-07-30T07:43:21.181-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785408203309",
+      "startTime": "2026-07-30T07:43:23.308-03:00",
+      "endTime": "2026-07-30T07:43:52.519-03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T07:43:23.308-03:00",
+          "endTime": "2026-07-30T07:43:52.519-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785408237092",
+      "startTime": "2026-07-30T07:43:57.092-03:00",
+      "endTime": "2026-07-30T08:08:57.092-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/reorganizacion.md",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T07:43:57.092-03:00",
+          "endTime": "2026-07-30T08:08:57.092-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785409739066",
+      "startTime": "2026-07-30T08:08:59.066-03:00",
+      "endTime": "2026-07-30T08:09:02.268-03:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T08:08:59.066-03:00",
+          "endTime": "2026-07-30T08:09:02.268-03:00"
+        }
+      ]
+    },
+    {
+      "id": "1785409743518",
+      "startTime": "2026-07-30T08:09:03.518-03:00",
+      "endTime": "2026-07-30T08:30:31.744-03:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "taskPath": "TaskNotes/Tasks/reorganizacion.md",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-07-30T08:09:03.518-03:00",
+          "endTime": "2026-07-30T08:30:31.744-03:00"
         }
       ]
     }
