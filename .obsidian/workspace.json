@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demos/Laboutique Automotores/Informe de Estado Comercial Sistema de Gestión Taller Mecanico.md",
+                "file": "Demos/Agente para roticeria/Plan_Negocio_MVP_Gastronomia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Informe de Estado Comercial Sistema de Gestión Taller Mecanico"
+              "title": "Plan_Negocio_MVP_Gastronomia"
+            }
+          },
+          {
+            "id": "f84345f3eb74b3b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demos/Agente para roticeria/Backlog_Epicas_MVP_Gastronomia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backlog_Epicas_MVP_Gastronomia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,21 +208,31 @@
       "tasknotes:Crear nueva tarea": false
     }
   },
-  "active": "bc43aaa6cb767761",
+  "active": "f84345f3eb74b3b7",
   "lastOpenFiles": [
-    "Demos/Laboutique Automotores/Especificacion_Sistema_Taller_Mecanico.md",
-    "Demos/Laboutique Automotores/Informe de Estado Comercial Sistema de Gestión Taller Mecanico.md",
-    "Demos/Laboutique Automotores/Presupuesto_Cristian_Taller.md",
+    "Demos/Agente para roticeria/gantt.md",
+    "Demos/Agente para roticeria/Backlog_Epicas_MVP_Gastronomia.md",
+    "Demos/Agente para roticeria/Sin confirmar 965288.crdownload",
+    "Demos/Agente para roticeria/gantt.png",
+    "Demos/Agente para roticeria/Requerimientos Funcionales - MVP Gastronomía.md",
+    "Demos/Agente para roticeria/mermaid-diagram.jpg",
+    "Demos/Agente para roticeria/Sin confirmar 461166.crdownload",
+    "Demos/Agente para roticeria/Sin confirmar 258668.crdownload",
+    "Demos/Agente para roticeria/Plan_Negocio_MVP_Gastronomia.md",
+    "Demos/Agente para roticeria/srs_template-ieee.pdf",
+    "Demos/Agente para roticeria/Requerimientos_MVP_NodeJS.md",
+    "Demos/Agente para roticeria/Sin confirmar 590829.crdownload",
+    "Demos/Agente para roticeria/cosas a tener en cuenta.md",
+    "Demos/Agente para roticeria/Sin confirmar 482638.crdownload",
+    "Demos/Agente para roticeria/Sin confirmar 815795.crdownload",
+    "Demos/Agente para roticeria/Sin confirmar 710547.crdownload",
     "Data General/IA AUTOMATIZACION.pdf",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/utils/excelExport.ts",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/utils/calculations.ts",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/types/index.ts",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/data/initialSeedData.ts",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/components/RemitosModule.tsx",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/components/PrintModal.tsx",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/components/PresupuestosModule.tsx",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/components/Navigation.tsx",
-    "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/src/components/Header.tsx",
+    "Demos/Agente para roticeria",
+    "Investigacion/Entregables/Estudios Contables.md",
+    "Investigacion/Entregables/Consecionarias.md",
+    "Demos/Laboutique Automotores/Informe de Estado Comercial Sistema de Gestión Taller Mecanico.md",
+    "Demos/Laboutique Automotores/Especificacion_Sistema_Taller_Mecanico.md",
+    "Demos/Laboutique Automotores/Presupuesto_Cristian_Taller.md",
     "Demos/Laboutique Automotores/la-boutique-del-automóvil MVP/README.md",
     "Demos/Laboutique Automotores/la-boutique-del-automóvil/README.md",
     "Demos/Laboutique Automotores/info/laBoutiqueLogoWhite.png",
@@ -224,16 +249,8 @@
     "Investigacion/Entregables/Agencias de marketing.md",
     "Investigacion/Entregables/Constructoras.md",
     "Investigacion/Entregables/Distribuidoras.md",
-    "Investigacion/Entregables/Estudios Contables.md",
     "Investigacion/Entregables/Hoteles.md",
     "Investigacion/Entregables/Inmobiliarias.md",
-    "Investigacion/Negocios/Inmobiliarias.md",
-    "Investigacion/Negocios/Clínicas y consultorios.md",
-    "Investigacion/Negocios/Agencias de marketing.md",
-    "Investigacion/Negocios/Estudios contables.md",
-    "Investigacion/Entregables/Clinicas y consultorios pequeños.md",
-    "README.md",
-    "TaskNotes/Tasks/Profundizar en clinicas.md",
-    "TaskNotes/Tasks/Profundizar en estudios contables.md"
+    "Investigacion/Negocios/Inmobiliarias.md"
   ]
 }
