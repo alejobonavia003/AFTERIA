@@ -1,0 +1,6 @@
+{
+  "name": "La Boutique del Automóvil",
+  "description": "Sistema de gestión integral para taller mecánico: presupuestos, remitos, cobranzas, libro caja/banco, métricas y reportes en Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

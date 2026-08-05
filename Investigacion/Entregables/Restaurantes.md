@@ -1,31 +1,3 @@
-````
-### Ejemplo: Restaurante
-
-Durante el análisis podemos detectar diferentes problemas:
-
-```text
-Restaurantes
-│
-├── Muchísimos mensajes
-│        │
-│        └── IA para WhatsApp
-│
-├── Mala gestión de reservas
-│        │
-│        └── Sistema de reservas
-│
-├── Poco control del stock
-│        │
-│        └── Sistema de inventario
-│
-├── No conocen sus métricas
-│        │
-│        └── Dashboard
-│
-└── Mala comunicación cocina-caja
-         │
-         └── Sistema de comandas
-````
 
 Estos problemas se transforman en oportunidades de producto:
 

@@ -2,14 +2,14 @@
 
 🟢 Muy factible | 🟡 Factible con riesgos | 🔴 Escasa factibilidad
 
-| Producto | Problema que resuelve | Cliente objetivo | Factibilidad |
-|---|---|---|:---:|
-| Agente IA para carga automática de pedidos | Elimina la carga manual de pedidos provenientes de WhatsApp, correo y llamadas | Distribuidoras pequeñas y medianas | 🟢 |
-| Plataforma de trazabilidad de pedidos | Reduce tiempos de respuesta ante reclamos y mejora la visibilidad del proceso | Distribuidoras medianas | 🟢 |
-| Sistema inteligente de picking | Disminuye errores en preparación de pedidos | Distribuidoras con depósito | 🟢 |
-| Plataforma de inventario inteligente | Mejora la precisión del inventario y reduce diferencias de stock | Distribuidoras de cualquier tamaño | 🟡 |
-| Dashboard ejecutivo | Centraliza indicadores operativos para la toma de decisiones | Gerentes de operaciones | 🟡 |
-| Optimizador inteligente de rutas | Reduce costos logísticos mediante optimización de recorridos | Distribuidoras con flota propia | 🔴 |
+| Producto                                   | Problema que resuelve                                                          | Cliente objetivo                   | Factibilidad |
+| ------------------------------------------ | ------------------------------------------------------------------------------ | ---------------------------------- | :----------: |
+| Agente IA para carga automática de pedidos | Elimina la carga manual de pedidos provenientes de WhatsApp, correo y llamadas | Distribuidoras pequeñas y medianas |      🟢      |
+| Plataforma de trazabilidad de pedidos      | Reduce tiempos de respuesta ante reclamos y mejora la visibilidad del proceso  | Distribuidoras medianas            |      🟢      |
+| Sistema inteligente de picking             | Disminuye errores en preparación de pedidos                                    | Distribuidoras con depósito        |      🟢      |
+| Plataforma de inventario inteligente       | Mejora la precisión del inventario y reduce diferencias de stock               | Distribuidoras de cualquier tamaño |      🟡      |
+| Dashboard ejecutivo                        | Centraliza indicadores operativos para la toma de decisiones                   | Gerentes de operaciones            |      🟡      |
+| Optimizador inteligente de rutas           | Reduce costos logísticos mediante optimización de recorridos                   | Distribuidoras con flota propia    |      🔴      |
 
 ---
 
